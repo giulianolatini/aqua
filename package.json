@@ -55,6 +55,7 @@
     "flux-store": "^1.x.x",
     "font-awesome": "^4.x.x",
     "gulp": "^3.x.x",
+    "gulp-autoprefixer": "@2.3.1",
     "gulp-concat": "^2.x.x",
     "gulp-less": "^3.x.x",
     "gulp-newer": "^0.5.x",
